@@ -1,3 +1,6 @@
 [params]
 name = 'Simba'
-theme = "ananke"
+baseURL = 'https://yyled.netlify.app/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
