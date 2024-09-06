@@ -1,3 +1,6 @@
 - name: Taipei 101
   latitude: 25.033964
   longitude: 121.564472
+- name: 高雄
+  latitude: 22.627278
+  longitude: 120.301435
